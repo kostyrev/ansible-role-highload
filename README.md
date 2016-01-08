@@ -1,12 +1,14 @@
 # Highload
-=========
 
 Role for tuning Linux TCP/IP subsystem for highload.
 
 Requirements
 ------------
 
-Read kernel documentation and decide what values are appropriate for your environment
+Read kernel documentation  
+[net.txt](https://www.kernel.org/doc/Documentation/sysctl/net.txt)  
+[ip-sysctl.txt](https://www.kernel.org/doc/Documentation/networking/ip-sysctl.txt)  
+and decide what values are appropriate for your environment
 
 Role Variables
 --------------
